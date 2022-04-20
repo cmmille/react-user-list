@@ -1,0 +1,10 @@
+.label-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--primary);
+    font-weight: 600;
+}
+.label-row p {
+    margin: 0;
+}
