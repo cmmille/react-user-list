@@ -32,7 +32,6 @@ const App = () => {
           title={modal.title}
           message={modal.message}
           onClick={disableModal}
-          modalActive={modalActive}
         ></Modal>
       )}
 
