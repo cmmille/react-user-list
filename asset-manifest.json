@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-user-list/static/css/main.16f54192.css",
-    "main.js": "/react-user-list/static/js/main.e30d2525.js",
+    "main.js": "/react-user-list/static/js/main.f149c361.js",
     "index.html": "/react-user-list/index.html",
     "main.16f54192.css.map": "/react-user-list/static/css/main.16f54192.css.map",
-    "main.e30d2525.js.map": "/react-user-list/static/js/main.e30d2525.js.map"
+    "main.f149c361.js.map": "/react-user-list/static/js/main.f149c361.js.map"
   },
   "entrypoints": [
     "static/css/main.16f54192.css",
-    "static/js/main.e30d2525.js"
+    "static/js/main.f149c361.js"
   ]
 }
