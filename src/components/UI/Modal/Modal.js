@@ -1,9 +1,10 @@
 import styles from "./Modal.module.css";
+import React from "react";
 
 
 const Modal = (props) => {
   return (
-    <div>
+    <React.Fragment>
       <div
         className={props.modalActive ? `${styles.backdrop}` : ""} 
         onClick={props.onClick}
@@ -17,7 +18,7 @@ const Modal = (props) => {
           <button onClick={props.onClick}>Okay</button>
         </div>
       </div>
-    </div>
+    </React.Fragment>
   );
 };
 export default Modal;
